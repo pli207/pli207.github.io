@@ -1,0 +1,34 @@
+body {
+  margin-top: 30px;
+}
+.navbar-inverse .navbar-brand {
+  font-family: 'Dancing Script', cursive;
+  font-size: 36px;
+  color: #ff3061;
+  padding-top: 20px;
+}
+h1.title {
+  padding: 0 30px 30px 0;
+}
+h2 {
+  font-size: 22px;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+.placesofinterest {
+  font-size: 0.4em;
+  padding: 3px;
+  vertical-align: middle;
+}
+.placesofinterest h2, .itenerary h2, .tips h2 {
+  margin-top: 0;
+}
+.itenerary li {
+  line-height: 28px;
+}
+.tips {
+  margin-bottom: 10px;
+}

@@ -1,0 +1,60 @@
+body {
+  width: 960px;
+  margin: 0 auto;
+  font-family: helvetica neue, arial, sans-serif;
+  color: white;
+  background-color: black;
+  background-image: url(../images/8171.jpg);
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+h1 { 
+  font-family: "Shadows Into Light";
+  font-size: 40px;
+}
+h2 {
+  border-bottom: 1px gray;
+}
+a { 
+  color: blue;
+}
+a:hover {
+  color: purple;
+}
+p, li { 
+  font-size: 16px;
+  line-height: 24px;
+}
+img {
+  float: right;
+}
+#title {
+  float: left;
+}
+#poster {
+  margin-top: 30px;
+  float: right;
+}
+#destinations {
+  clear: both;
+  background-color: white;
+  font-family: helvetica neue, arial, sans-serif;
+  color: black;
+  padding: 20px;
+  border: 1px solid black;
+  margin-top: 15px;
+}
+#tips {
+   color:black;
+}
+#list-t {
+  border:0;
+}
+
+#list-t td{
+  color: black;
+}
+#link {
+  color:black;
+}
